@@ -1,0 +1,22 @@
+
+
+.pink, .cooler, .last{
+   background-color: rgb(226, 184, 191);
+     font-style: Verdana, "DejaVu Serif", "Sans", sans-serif;
+     font-size: 18px; 
+}
+
+#even{
+    color: rgb(5, 5, 235);
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#secondEven{
+    background-color: rgb(138, 240, 138);
+    font-size: 24px;
+    font-weight: bold;
+}
